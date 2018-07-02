@@ -7,3 +7,5 @@ def parrot
 end
 
 def parrot (phrase)
+  phrase = parrot("Pretty bird!")
+end
