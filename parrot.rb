@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot(phrase=parrot)
-  gets.strip
+  parrot gets.strip
   return phrase
 end
